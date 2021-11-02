@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @rim-arim
 - 👀 I’m interested in blockchain
-- 🌱 I’m currently learning nestjs
-- 💞️ I’m looking to collaborate on blockchain
 - 📫 How to reach me ...
 
 <!---
